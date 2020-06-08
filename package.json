@@ -10,6 +10,7 @@
     "react-scripts": "^3.4.1"
   },
   "dependencies": {
+    "@hapi/hoek": "^9.0.4",
     "and": "0.0.3",
     "audit": "0.0.6",
     "big.js": "^5.2.2",
